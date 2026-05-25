@@ -114,7 +114,7 @@ function App() {
           </div>
           
           <p className="text-purple-300 text-sm md:text-base font-light tracking-wide mb-6 italic">
-            Put your career in perfect orbit
+            𝓟𝓾𝓽 𝔂𝓸𝓾𝓻 𝓒𝓪𝓻𝓮𝓮𝓻 𝓲𝓷 𝓹𝓮𝓻𝓯𝓮𝓬𝓽 𝓞𝓻𝓫𝓲𝓽
           </p>
           
           <div className="w-20 h-0.5 bg-gradient-to-r from-purple-500 to-pink-500 mx-auto animate-expand-width mb-8"></div>
@@ -222,7 +222,7 @@ function App() {
               </div>
               <div>
                 <span className="text-white font-semibold text-lg tracking-wide">ORBIT</span>
-                <p className="text-gray-400 text-[10px] -mt-1">put your career in perfect orbit</p>
+                <p className="text-gray-400 text-[10px] -mt-1">Put your Career in perfect Orbit</p>
               </div>
             </div>
             <div className="hidden md:flex gap-8">
@@ -326,7 +326,7 @@ function App() {
               Ready to Launch Your Career?
             </h2>
             <p className="text-purple-100 mb-8">
-              Join thousands of professionals already navigating their career trajectory
+              Thousands of professionals already navigating their career trajectory
             </p>
             <button className="px-10 py-4 bg-white text-purple-600 rounded-full text-lg font-bold shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300">
               Start Your Orbit →
@@ -343,7 +343,7 @@ function App() {
               <div className="w-7 h-7 bg-gradient-to-br from-purple-500/30 to-pink-500/30 rounded-lg flex items-center justify-center border border-white/15">
                 <span className="text-sm font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent" style={{ fontFamily: "'Georgia', 'Times New Roman', serif" }}>O</span>
               </div>
-              <span className="text-gray-400 text-sm">© 2025 ORBIT — put your career in perfect orbit</span>
+              <span className="text-gray-400 text-sm">© 2025 ORBIT</span>
             </div>
             <div className="flex gap-6">
               <a href="#" className="text-gray-400 hover:text-white text-sm transition">Privacy</a>
